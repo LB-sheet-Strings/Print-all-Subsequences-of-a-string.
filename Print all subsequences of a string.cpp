@@ -15,7 +15,11 @@ I HAVE ALREADY DONE THIS IN BIT MANIPULATION POWER SET QUESTION
 
 TC = O(n*2^n)
 
+way 3:
 The efficient approach would be using recursion
+TC = O(N)
+SC = O(N)
+
 pick and non-pick approach
 */
 
